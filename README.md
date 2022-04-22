@@ -1,6 +1,6 @@
-#a git flow practice demo
+# a git flow practice demo
 
-###Steps
+### Steps
 
 
 ```bash
